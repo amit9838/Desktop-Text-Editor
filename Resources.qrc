@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Resources/cutting.png</file>
+        <file>Resources/diskette.png</file>
+        <file>Resources/files.png</file>
+        <file>Resources/open.png</file>
+        <file>Resources/paste.png</file>
+        <file>Resources/remove.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/redo.png</file>
+        <file>Resources/undo.png</file>
+        <file>Resources/bold.png</file>
+        <file>Resources/italic.png</file>
+        <file>Resources/underline.png</file>
+        <file>Resources/subscript-interface-option-symbol.png</file>
+        <file>Resources/superscript-symbol.png</file>
+    </qresource>
+</RCC>
